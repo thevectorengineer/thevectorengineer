@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vineet Kumar Singh</h1>
-<h3 align="center">Published co author and engineer by profession.</h3>
+<h3 align="center">Engineer by profession, Poet by hobby</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevectorengineer&label=Profile%20views&color=0e75b6&style=flat" alt="thevectorengineer" /> </p>
 
